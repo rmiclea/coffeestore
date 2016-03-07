@@ -1,0 +1,44 @@
+
+a:hover {
+	text-decoration: none;
+}
+header {
+	background: #A76A4D;
+	padding: 0 !important;
+}
+#menu-main {
+	list-style-type: none;
+	margin: 0px;
+}
+#menu-main li {
+	display: inline-block;
+	padding-right: 10px;
+}
+
+#menu-main a {
+	color: #F9F4F2;
+	font-size: 14px;
+	font-family: Roboto;
+	line-height: 40px;
+}
+
+.site-header-main {
+	padding: 22px 0px;
+}
+.search-form {
+
+}
+.search-form button {
+	height: 40px;
+	width: 40px;
+	border: none;
+	background: url("images/magnifying-glass.png") no-repeat center;
+	margin-left: -41px;
+}
+
+.search-form .search-field {
+	height: 40px;
+	border: none;
+	float: left;
+	width: 100%;
+}
